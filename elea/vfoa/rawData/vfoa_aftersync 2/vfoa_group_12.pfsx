@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="MediaTime">
+        <Long>2093</Long>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>Tier-0</String>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>760</Long>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>0.1</Float>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>9120</Long>
+    </pref>
+</preferences>
