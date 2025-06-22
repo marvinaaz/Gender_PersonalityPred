@@ -1,0 +1,11 @@
+The transcriptions corresponding to small groups recorded in English are available in the folder
+	txtFiles
+
+The respective id of the speaker and the letter in the group are listed in the file
+	LettersamdIdSpeaker.xls
+
+
+For analysis, we generated a single file per participant to extract the Word Categories using LIWC. The word categories are in the folder
+	LIWC_categories
+In this folder the resultant word categories are available in two formats:
+	xls and matlab file

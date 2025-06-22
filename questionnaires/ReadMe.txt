@@ -1,0 +1,28 @@
+The file
+	groupDominanceRank
+has the respective perceived dominance rankings from the participants, where rank 1 means the most dominant participant in the group. Self rank is the rank that each participant asigned to himself in the group.
+
+The file 
+	winterSurvival
+has the individual and group rankings on the Winter Survival Task.
+The scores from top 1 to 12 are listed, and the IndividualTaskperf shows the actual individual performance on the task (the lower the better), similarly for the group top 1-12 and GroupTaskperformance.
+
+
+
+The file
+	perceivedMeanValues_LDCLi
+has the mean values of the perceived variables (Lead:Leadership, Dom:Dominance, Comp:Competence and Liking.)
+
+The file
+	selfMeanValues_LDCLi
+has the mean values of the self scored variables (Lead:Leadership, Dom:Dominance, Comp:Competence and Liking.)
+
+The file
+	personality_gender_age
+has the mean values for the personality traits (extraversion, neuroticism,openness to experience, agreeableness and conscientiousness), and PRF mean and total values that measures dominance (the higher the more dominant).
+It also has gender and age of the participants.
+
+Annotations from 3 external observers are available only in matlab format:
+	matlabFiles/externalAnnotations_structure
+the annotations reflect perception of leadership, dominance and personality.
+
